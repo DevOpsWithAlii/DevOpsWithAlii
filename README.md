@@ -4,7 +4,7 @@
 **DevOpsWithAli/DevOpsWithAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Ali](https://www.linkedin.com/in/alimasiuzama/), a DevOps Engineer (Development, DevOps, Cloud Engineering) passionate about developing production-ready applications with 1+ years of professional remote working experience. 🎯
+I am [Ali](https://www.linkedin.com/in/alimasiuzama/), a DevOps Engineer (Development, DevOps, Cloud Engineering) passionate about developing production-ready applications with professional remote working experience. 🎯
 
 I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
