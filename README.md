@@ -8,6 +8,12 @@ I am [Ali](https://www.linkedin.com/in/alimasiuzama/), a DevOps Engineer (Develo
 
 I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+<center><a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1&duration=1000&pause=500&width=435&lines=A+Tech+enthusiast;An+Explorer;+A+Learner" alt="Typing SVG" /></a></center>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh971&label=Profile%20views&color=0e75b6&style=flat" alt="harsh971" /> </p>
+
 
 <p float="left">
   <a href="https://python.org/" target="_blank" >
