@@ -65,4 +65,4 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/alimasiuzama/) 👨🏻‍💻
  - Read my blogs [Hashnode](https://hashnode.com/@Alimasiuzama) ✨
- - Shoot Me an [Email](masiuzzama9798@gmail.com) 💌
+ - Shoot Me an [Email](mailto:masiuzzama9798@gmail.com) 💌
