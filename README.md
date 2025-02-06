@@ -84,3 +84,7 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/alimasiuzama/) 👨🏻‍💻
  - Read my blogs [Hashnode](https://hashnode.com/@Alimasiuzama) ✨
  - Shoot Me an [Email](mailto:masiuzzama9798@gmail.com) 💌
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/devopswithali" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
