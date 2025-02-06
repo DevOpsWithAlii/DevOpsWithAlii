@@ -12,7 +12,7 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 <center><a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1&duration=1000&pause=500&width=435&lines=A+Tech+enthusiast;An+Explorer;+A+Learner" alt="Typing SVG" /></a></center>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh971&label=Profile%20views&color=0e75b6&style=flat" alt="harsh971" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh971&label=Profile%40views&color=0e75b6&style=flat" alt="harsh971" /> </p>
 
 
 <p float="left">
