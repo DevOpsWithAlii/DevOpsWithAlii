@@ -6,7 +6,7 @@
 
 I am [Ali](https://www.linkedin.com/in/alimasiuzama/), a DevOps Engineer (Development, DevOps, Cloud Engineering) passionate about developing production-ready applications with professional remote working experience. 🎯
 
-I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
+I mostly work with Python, MVC Frameworks and Cloud based technologies.. 🚀
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 <center><a href="https://git.io/typing-svg">
