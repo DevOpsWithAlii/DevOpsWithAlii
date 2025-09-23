@@ -63,5 +63,33 @@ passionate about developing production-ready applications with professional remo
 	<td><strong>OS & Scripting</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=linux&theme=dark"></td>
 </tr>
+<tr>
+	<td><strong>CI/CD Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=jenkins, git&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Containerization & Orchestration></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=docker,kubernetes&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Infrastructure as Code (IaC)></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=terraform,ansible&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Version Control></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Infrastructure as Code (IaC)</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,keras"></td>
+</tr>
+<tr>
+	<td><strong>Machine Learning</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,keras"></td>
+</tr>
+<tr>
+	<td><strong>Software Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=ps,pr,figma,ai,canva"></td>
+</tr>
 
 	
