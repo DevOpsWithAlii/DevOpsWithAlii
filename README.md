@@ -87,23 +87,3 @@ passionate about developing production-ready applications with professional remo
 	<td><strong>Software Tools</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=ps,pr,figma,ai,canva"></td>
 </tr>
-
-# 📫 How to reach me?
-
- - Connect with me on [LinkedIn](www.linkedin.com/in/masiuzzama) 👨🏻‍💻
- - Read my blogs [Hashnode](https://hashnode.com/@Alimasiuzama) ✨
- - Shoot Me an [Email](mailto:masiuzzama9798@gmail.com) 💌
-
-# If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/devopswithali" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-Give a ⭐️ if you found this helpful!
-
----
-
-Feel free to explore my repositories and contributions!
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-	
