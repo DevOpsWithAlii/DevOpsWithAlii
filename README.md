@@ -12,7 +12,7 @@
 **DevOpsWithAli/DevOpsWithAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Ali](https://www.linkedin.com/in/alimasiuzama/), passionate about developing production-ready applications with professional remote working experience. 🎯
+passionate about developing production-ready applications with professional remote working experience. 🎯
 
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
