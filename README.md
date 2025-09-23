@@ -49,7 +49,9 @@ passionate about developing production-ready applications with professional remo
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=c,cpp,py,java"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=py"></td>
+
+
 
 
   
