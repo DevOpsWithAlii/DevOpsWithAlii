@@ -59,5 +59,9 @@ passionate about developing production-ready applications with professional remo
 	<td><strong>Database Technologies</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql&theme=dark"></td>
 </tr>
+<tr>
+	<td><strong>OS & Scripting</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=linux&theme=dark"></td>
+</tr>
 
 	
