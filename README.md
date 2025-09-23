@@ -44,6 +44,14 @@ passionate about developing production-ready applications with professional remo
  </p>
   
 ### DevOps
+
+## Languages, Tools and Technologies 🚀 
+<table>
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=c,cpp,py,java"></td>
+
+
   
  <p float="left">
   <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
