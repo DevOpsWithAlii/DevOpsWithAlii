@@ -50,4 +50,9 @@ passionate about developing production-ready applications with professional remo
 	<tr>
 	<td><strong>Programming Languages</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=py"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,aws&theme=dark"></td>
+</tr>
 	
