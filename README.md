@@ -65,7 +65,7 @@ passionate about developing production-ready applications with professional remo
 </tr>
 <tr>
 	<td><strong>CI/CD Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=jenkins, git&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=jenkins,git&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Containerization & Orchestration></td>
@@ -78,10 +78,6 @@ passionate about developing production-ready applications with professional remo
 <tr>
 	<td><strong>Version Control></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Infrastructure as Code (IaC)</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,keras"></td>
 </tr>
 <tr>
 	<td><strong>Machine Learning</strong></td>
