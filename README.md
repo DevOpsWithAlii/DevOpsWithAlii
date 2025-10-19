@@ -87,7 +87,3 @@ passionate about developing production-ready applications with professional remo
 	<td><strong>Software Tools</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=ps,pr,figma,ai,canva"></td>
 </tr>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevOpsWithAlii&show_icons=true&locale=en&theme=radical" alt="DevOpsWithAlii" width="420"/>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevOpsWithAlii&theme=radical" alt="DevOpsWithAlii" width="420" />
