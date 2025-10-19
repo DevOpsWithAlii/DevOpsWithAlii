@@ -89,3 +89,5 @@ passionate about developing production-ready applications with professional remo
 </tr>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevOpsWithAlii&show_icons=true&locale=en&theme=radical" alt="DevOpsWithAlii" width="420"/>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevOpsWithAlii&theme=radical" alt="DevOpsWithAlii" width="420" />
